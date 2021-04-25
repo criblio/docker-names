@@ -2,7 +2,7 @@
   "name": "@cribl/docker-names",
   "version": "1.0.0",
   "description": "Fork of docker names for javascript",
-  "iles": [
+  "files": [
     "lib/**/*"
   ],
   "main": "lib/index.js",
