@@ -1,0 +1,39 @@
+{
+  "name": "@cribl/docker-names",
+  "version": "1.0.0",
+  "description": "Fork of docker names for javascript",
+  "iles": [
+    "lib/**/*"
+  ],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criblio/docker-names.git"
+  },
+  "keywords": [
+    "docker",
+    "names",
+    "name",
+    "generator",
+    "docker-names",
+    "docker-name"
+  ],
+  "author": "Cribl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/criblio/docker-names/issues"
+  },
+  "homepage": "https://github.com/criblio/docker-names#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.22",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.5",
+    "typescript": "^4.2.4"
+  }
+}
