@@ -16,6 +16,9 @@
     "type": "git",
     "url": "git+https://github.com/criblio/docker-names.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "docker",
     "names",
