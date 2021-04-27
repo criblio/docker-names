@@ -7,7 +7,7 @@ An implementation of [docker-names](https://github.com/moby/moby/blob/master/pkg
 ### Generate Name
 
 ```typescript
-import {generateName} from '@cribl/docker-names'
+import {generateName} from '@criblinc/docker-names'
 
 const dockerName = generateName();
 
@@ -20,7 +20,7 @@ console.log(dockerName);
 
 
 ```typescript
-import {generateNameWithNumber} from '@cribl/docker-names'
+import {generateNameWithNumber} from '@criblinc/docker-names'
 
 const dockerName = generateNameWithNumber();
 
@@ -34,7 +34,7 @@ console.log(dockerName);
 The words can also be imported from the package if need be.
 
 ```typescript
-import {left,right} from '@cribl/docker-names'
+import {left,right} from '@criblinc/docker-names'
 
 console.log(left);
 
