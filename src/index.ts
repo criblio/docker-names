@@ -164,9 +164,6 @@ export const right = [
 // Karl Friedrich Benz - a German automobile engineer. Inventor of the first practical motorcar. https://en.wikipedia.org/wiki/Karl_Benz
   "benz",
 
-  //Dritan and Ledion Bitincka - co-founders of Cribl
-  "bitincka",
-
 // Homi J Bhabha - was an Indian nuclear physicist, founding director, and professor of physics at the Tata Institute of Fundamental Research. Colloquially known as "father of Indian nuclear programme"- https://en.wikipedia.org/wiki/Homi_J._Bhabha
   "bhabha",
 
@@ -297,9 +294,6 @@ export const right = [
 
 // Donna Dubinsky - played an integral role in the development of personal digital assistants (PDAs) serving as CEO of Palm, Inc. and co-founding Handspring. https://en.wikipedia.org/wiki/Donna_Dubinsky
   "dubinsky",
-
-// Annie Easley - She was a leading member of the team which developed software for the Centaur rocket stage and one of the first African-Americans in her field. https://en.wikipedia.org/wiki/Annie_Easley
-  "easley",
 
 // Thomas Alva Edison, prolific inventor https://en.wikipedia.org/wiki/Thomas_Edison
   "edison",
@@ -456,9 +450,6 @@ export const right = [
 
 // Mary Lou Jepsen, was the founder and chief technology officer of One Laptop Per Child (OLPC), and the founder of Pixel Qi. https://en.wikipedia.org/wiki/Mary_Lou_Jepsen
   "jepsen",
-
-// Katherine Coleman Goble Johnson - American physicist and mathematician contributed to the NASA. https://en.wikipedia.org/wiki/Katherine_Johnson
-  "johnson",
 
 // Irène Joliot-Curie - French scientist who was awarded the Nobel Prize for Chemistry in 1935. Daughter of Marie and Pierre Curie. https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie
   "joliot",
@@ -706,14 +697,8 @@ export const right = [
 // Adi Shamir - Israeli cryptographer whose numerous inventions and contributions to cryptography include the Ferge Fiat Shamir identification scheme, the Rivest Shamir Adleman (RSA) public-key cryptosystem, the Shamir's secret sharing scheme, the breaking of the Merkle-Hellman cryptosystem, the TWINKLE and TWIRL factoring devices and the discovery of differential cryptanalysis (with Eli Biham). https://en.wikipedia.org/wiki/Adi_Shamir
   "shamir",
 
-  // Principal SaaS Engineer
-  "shanaghy",
-
 // Claude Shannon - The father of information theory and founder of digital circuit design theory. (https://en.wikipedia.org/wiki/Claude_Shannon)
   "shannon",
-
-  //Clint Sharp co-founder and CEO of cribl
-  "sharp",
 
 // Carol Shaw - Originally an Atari employee, Carol Shaw is said to be the first female video game designer. https://en.wikipedia.org/wiki/Carol_Shaw_(video_game_designer)
   "shaw",
@@ -802,9 +787,6 @@ export const right = [
 // Andrew Wiles - Notable British mathematician who proved the enigmatic Fermat's Last Theorem - https://en.wikipedia.org/wiki/Andrew_Wiles
   "wiles",
 
-  //Principal SecDevOps Cribl
-  "wilkins",
-
 // Roberta Williams, did pioneering work in graphical adventure games for personal computers, particularly the King's Quest series. https://en.wikipedia.org/wiki/Roberta_Williams
   "williams",
 
@@ -833,7 +815,20 @@ export const right = [
   "yonath",
 
 // Nikolay Yegorovich Zhukovsky (Russian: Никола́й Его́рович Жуко́вский, January 17 1847 – March 17, 1921) was a Russian scientist, mathematician and engineer, and a founding father of modern aero- and hydrodynamics. Whereas contemporary scientists scoffed at the idea of human flight, Zhukovsky was the first to undertake the study of airflow. He is often called the Father of Russian Aviation. https://en.wikipedia.org/wiki/Nikolay_Yegorovich_Zhukovsky
-  "zhukovsky"
+  "zhukovsky",
+
+// Cribl Employees
+  "ago",        // Ledio Ago        - Sr. Director of Engineering
+  "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
+  "bitincka",   // Ledion Bitincka  - Co-founder and Chief Technology Officer
+  "easley",     // Bryce Easley     - Sr Software Engineer
+  "heady",      // Hud Heady        - Sr Software Engineer
+  "litras",     // Steve Litras     - Technical Marketing Evangelist
+  "marko",      // Monika Marko     - Project Manager
+  "shanaghy",   // Declan Shanaghy  - Principal SaaS Engineer
+  "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
+  "tankersley", // Nick Tankersley  - Product Manager
+  "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
 ]
 
 /**
