@@ -825,6 +825,7 @@ export const right = [
   "heady",      // Hud Heady        - Sr Software Engineer
   "litras",     // Steve Litras     - Technical Marketing Evangelist
   "marko",      // Monika Marko     - Project Manager
+  "romito",     // Nick Romito      - Principal Software Engineer
   "shanaghy",   // Declan Shanaghy  - Principal SaaS Engineer
   "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
   "tankersley", // Nick Tankersley  - Product Manager
