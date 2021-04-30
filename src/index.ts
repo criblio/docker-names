@@ -828,6 +828,7 @@ export const right = [
   "shanaghy",   // Declan Shanaghy  - Principal SaaS Engineer
   "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
   "tankersley", // Nick Tankersley  - Product Manager
+  "vandoren",   // Tim VanDoren     - Sr Software Engineer
   "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
 ]
 
