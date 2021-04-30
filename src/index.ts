@@ -824,6 +824,7 @@ export const right = [
   "easley",     // Bryce Easley     - Sr Software Engineer
   "heady",      // Hud Heady        - Sr Software Engineer
   "litras",     // Steve Litras     - Technical Marketing Evangelist
+  "maislin",    // David Maislin    - Principal Solutions Engineer
   "marko",      // Monika Marko     - Project Manager
   "romito",     // Nick Romito      - Principal Software Engineer
   "shanaghy",   // Declan Shanaghy  - Principal SaaS Engineer
