@@ -822,6 +822,7 @@ export const right = [
 
 // Cribl Employees
   "ago",        // Ledio Ago        - Sr. Director of Engineering
+  "amir", 	// Kam Amir	    - Director Business Development
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
   "bitincka",   // Ledion Bitincka  - Co-founder and Chief Technology Officer
   "easley",     // Bryce Easley     - Sr Software Engineer
@@ -833,7 +834,6 @@ export const right = [
   "tankersley", // Nick Tankersley  - Product Manager
   "vandoren",   // Tim VanDoren     - Sr Software Engineer
   "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
-  "kam", 	// Kam Amir	    - Director Business Development
 ]
 
 /**
