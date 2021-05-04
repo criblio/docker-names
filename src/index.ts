@@ -459,6 +459,9 @@ export const right = [
 
 // A. P. J. Abdul Kalam - is an Indian scientist aka Missile Man of India for his work on the development of ballistic missile and launch vehicle technology - https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam
   "kalam",
+	
+// Dan Kaminsky - (Feb. 7, 1979 - April 23, 2021) cybersecurity hero known for his study on DNS cache poisoning and his investingations into the Sony Rootkit attacks. 
+  "kaminsky",
 
 // Sergey Petrovich Kapitsa (Russian: Серге́й Петро́вич Капи́ца; 14 February 1928 – 14 August 2012) was a Russian physicist and demographer. He was best known as host of the popular and long-running Russian scientific TV show, Evident, but Incredible. His father was the Nobel laureate Soviet-era physicist Pyotr Kapitsa, and his brother was the geographer and Antarctic explorer Andrey Kapitsa. - https://en.wikipedia.org/wiki/Sergey_Kapitsa
   "kapitsa",
@@ -817,8 +820,9 @@ export const right = [
 // Nikolay Yegorovich Zhukovsky (Russian: Никола́й Его́рович Жуко́вский, January 17 1847 – March 17, 1921) was a Russian scientist, mathematician and engineer, and a founding father of modern aero- and hydrodynamics. Whereas contemporary scientists scoffed at the idea of human flight, Zhukovsky was the first to undertake the study of airflow. He is often called the Father of Russian Aviation. https://en.wikipedia.org/wiki/Nikolay_Yegorovich_Zhukovsky
   "zhukovsky",
 
-// Cribl Employees - Family Names - Add your family name to this list in alphabetical order
+// Cribl Employee Family Names - Add your family name to this list in alphabetical order
   "ago",        // Ledio Ago        - Sr. Director of Engineering
+  "amir", 	    // Kam Amir	        - Director Business Development
   "ansell",     // Danny Ansell     - Regional Sales
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
   "bitincka",   // Ledion Bitincka  - Co-founder and Chief Technology Officer
