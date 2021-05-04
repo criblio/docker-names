@@ -819,6 +819,7 @@ export const right = [
 
 // Cribl Employees - Family Names - Add your family name to this list in alphabetical order
   "ago",        // Ledio Ago        - Sr. Director of Engineering
+  "ansell",     // Danny Ansell     - Regional Sales
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
   "bitincka",   // Ledion Bitincka  - Co-founder and Chief Technology Officer
   "easley",     // Bryce Easley     - Sr Software Engineer
