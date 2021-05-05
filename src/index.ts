@@ -831,6 +831,7 @@ export const right = [
   "litras",     // Steve Litras     - Technical Marketing Evangelist
   "maislin",    // David Maislin    - Principal Solutions Engineer
   "marko",      // Monika Marko     - Project Manager
+  "rochette",   // Donn Rochette    - Principal Software Engineer
   "romito",     // Nick Romito      - Principal Software Engineer
   "shanaghy",   // Declan Shanaghy  - Principal SaaS Engineer
   "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
