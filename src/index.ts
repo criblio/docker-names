@@ -838,6 +838,14 @@ export const right = [
   "tankersley", // Nick Tankersley  - Product Manager
   "vandoren",   // Tim VanDoren     - Sr Software Engineer
   "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
+  "goozy",      // Steph Campagna   - Sr Events Marketing Manager
+  "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
+  "strong",     // Abby Strong      - VP Marketing
+  "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
+  "goozy",      // Steph Campagna   - Sr Events Marketing Manager
+  "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
+  "strong",     // Abby Strong      - VP Marketing
+  "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
 ]
 
 /**
