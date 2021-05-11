@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Default actions for all branches
 on: [push]
 jobs:
   Unit-Test:
