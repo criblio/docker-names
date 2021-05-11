@@ -15,7 +15,7 @@ describe('Docker names', () => {
     const parts = nameWithNumber.split('-');
     expect(parts).toHaveLength(3);
     expect(left).toContain(parts[0]);
-    expect(right).toContain(parts[1]);
+    expect(right).toContain('s' + parts[1]);
     expect(parseInt(parts[2])).toBeGreaterThan(0);
   })
 })
