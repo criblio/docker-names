@@ -4,12 +4,10 @@ export const left = [
   "affectionate",
   "agitated",
   "amazing",
-  "angry",
   "awesome",
   "beautiful",
   "blissful",
   "bold",
-  "boring",
   "brave",
   "busy",
   "charming",
@@ -17,10 +15,7 @@ export const left = [
   "cool",
   "compassionate",
   "competent",
-  "condescending",
   "confident",
-  "cranky",
-  "crazy",
   "dazzling",
   "determined",
   "distracted",
@@ -59,7 +54,6 @@ export const left = [
   "keen",
   "kind",
   "laughing",
-  "loving",
   "lucid",
   "magical",
   "mystifying",
@@ -73,8 +67,6 @@ export const left = [
   "objective",
   "optimistic",
   "peaceful",
-  "pedantic",
-  "pensive",
   "practical",
   "priceless",
   "quirky",
@@ -82,7 +74,6 @@ export const left = [
   "recursing",
   "relaxed",
   "reverent",
-  "romantic",
   "sad",
   "serene",
   "sharp",
@@ -90,8 +81,6 @@ export const left = [
   "sleepy",
   "stoic",
   "strange",
-  "stupefied",
-  "suspicious",
   "sweet",
   "tender",
   "thirsty",
@@ -155,9 +144,6 @@ export const right = [
 // Laura Bassi, the world's first female professor https://en.wikipedia.org/wiki/Laura_Bassi
   "bassi",
 
-// Hugh Beaver, British engineer, founder of the Guinness Book of World Records https://en.wikipedia.org/wiki/Hugh_Beaver
-  "beaver",
-
 // Alexander Graham Bell - an eminent Scottish-born scientist, inventor, engineer and innovator who is credited with inventing the first practical telephone - https://en.wikipedia.org/wiki/Alexander_Graham_Bell
   "bell",
 
@@ -169,9 +155,6 @@ export const right = [
 
 // Bhaskara II - Ancient Indian mathematician-astronomer whose work on calculus predates Newton and Leibniz by over half a millennium - https://en.wikipedia.org/wiki/Bh%C4%81skara_II#Calculus
   "bhaskara",
-
-// Sue Black - British computer scientist and campaigner. She has been instrumental in saving Bletchley Park, the site of World War II codebreaking - https://en.wikipedia.org/wiki/Sue_Black_(computer_scientist)
-  "black",
 
 // Elizabeth Helen Blackburn - Australian-American Nobel laureate; best known for co-discovering telomerase. https://en.wikipedia.org/wiki/Elizabeth_Blackburn
   "blackburn",
@@ -664,9 +647,6 @@ export const right = [
 // Srinivasa Ramanujan - Indian mathematician and autodidact who made extraordinary contributions to mathematical analysis, number theory, infinite series, and continued fractions. - https://en.wikipedia.org/wiki/Srinivasa_Ramanujan
   "ramanujan",
 
-// Sally Kristen Ride was an American physicist and astronaut. She was the first American woman in space, and the youngest American astronaut. https://en.wikipedia.org/wiki/Sally_Ride
-  "ride",
-
 // Dennis Ritchie - co-creator of UNIX and the C programming language. - https://en.wikipedia.org/wiki/Dennis_Ritchie
   "ritchie",
 
@@ -822,7 +802,7 @@ export const right = [
 
 // Cribl Employee Family Names - Add your family name to this list in alphabetical order
   "ago",        // Ledio Ago        - Sr. Director of Engineering
-  "amir", 	    // Kam Amir	        - Director Business Development
+  "amir",       // Kam Amir         - Director Business Development
   "ansell",     // Danny Ansell     - Regional Sales
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
   "bitincka",   // Ledion Bitincka  - Co-founder and Chief Technology Officer
@@ -848,9 +828,6 @@ export const right = [
 export function generateName() : string {
 	const leftElement = left[Math.floor(Math.random() * left.length)];
 	const rightElement = right[Math.floor(Math.random() * right.length)];
-	if(leftElement === 'boring' && rightElement === 'wozniak'){
-		return generateName()
-	}
 	return `${leftElement}-${rightElement}`
 }
 
