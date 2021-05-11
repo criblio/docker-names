@@ -12,6 +12,6 @@ jobs:
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
       - name: Install packages
         run: npm ci
-      - name: Install packages
+      - name: Run unit tests
         run: npm run test
       - run: echo "🍏 This job's status is ${{ job.status }}."
