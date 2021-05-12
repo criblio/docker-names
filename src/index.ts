@@ -6,10 +6,12 @@ export const left = [
   "amazing",
   "awesome",
   "beautiful",
+  "beloved",
   "blissful",
   "bold",
   "brave",
   "busy",
+  "caprine",
   "charming",
   "clever",
   "cool",
@@ -43,6 +45,7 @@ export const left = [
   "happy",
   "hardcore",
   "heuristic",
+  "hircine",
   "hopeful",
   "hungry",
   "infallible",
@@ -74,6 +77,7 @@ export const left = [
   "recursing",
   "relaxed",
   "reverent",
+  "ruminant",
   "sad",
   "serene",
   "sharp",
@@ -821,6 +825,7 @@ export const right = [
   "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
   "goozy",      // Steph Campagna   - Sr Events Marketing Manager
   "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
+  "jeebus",	// Louise Tang      - CSM Success Ops
   "strong",     // Abby Strong      - VP Marketing
   "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
 ]
