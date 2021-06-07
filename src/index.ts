@@ -812,6 +812,7 @@ export const right = [
   "bitincka",   // Ledion Bitincka  - Co-founder and Chief Technology Officer
   "easley",     // Bryce Easley     - Sr Software Engineer
   "heady",      // Hud Heady        - Sr Software Engineer
+  "hoffman",    // Paul Hoffman     - Sr Assigned Support Engineer
   "litras",     // Steve Litras     - Technical Marketing Evangelist
   "maislin",    // David Maislin    - Principal Solutions Engineer
   "marko",      // Monika Marko     - Project Manager
