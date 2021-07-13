@@ -824,10 +824,12 @@ export const right = [
   "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
   "tankersley", // Nick Tankersley  - Product Manager
   "vandoren",   // Tim VanDoren     - Sr Software Engineer
+  "wilk",       // Łukasz Wilk      - Sr Software Engineer
   "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
   "goozy",      // Steph Campagna   - Sr Events Marketing Manager
   "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
   "jeebus",	// Louise Tang      - CSM Success Ops
+  "sobolewski", // Janusz Sobolewski - Principal Software Engineer
   "strong",     // Abby Strong      - VP Marketing
   "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
 ]
