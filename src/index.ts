@@ -808,6 +808,7 @@ export const right = [
   "ago",        // Ledio Ago        - Sr. Director of Engineering
   "amir",       // Kam Amir         - Director Business Development
   "ansell",     // Danny Ansell     - Regional Sales
+  "bieron",     // Jan Bieroń       - Sr Software Engineer
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
   "bitincka",   // Ledion Bitincka  - Co-founder and Chief Technology Officer
   "easley",     // Bryce Easley     - Sr Software Engineer
