@@ -808,11 +808,13 @@ export const right = [
   "ago",        // Ledio Ago        - Sr. Director of Engineering
   "amir",       // Kam Amir         - Director Business Development
   "ansell",     // Danny Ansell     - Regional Sales
+  "bieron",     // Jan Bieroń       - Sr Software Engineer
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
   "bitincka",   // Ledion Bitincka  - Co-founder and Chief Technology Officer
   "easley",     // Bryce Easley     - Sr Software Engineer
   "heady",      // Hud Heady        - Sr Software Engineer
   "hoffman",    // Paul Hoffman     - Sr Assigned Support Engineer
+  "katz",       // Michael Katz     - Sr Tech Writer
   "litras",     // Steve Litras     - Technical Marketing Evangelist
   "maislin",    // David Maislin    - Principal Solutions Engineer
   "marko",      // Monika Marko     - Project Manager
@@ -823,10 +825,13 @@ export const right = [
   "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
   "tankersley", // Nick Tankersley  - Product Manager
   "vandoren",   // Tim VanDoren     - Sr Software Engineer
+  "wilk",       // Łukasz Wilk      - Sr Software Engineer
+  "vandoren",   // Trevor VanDoren  - Software Engineer
   "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
   "goozy",      // Steph Campagna   - Sr Events Marketing Manager
   "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
   "jeebus",	    // Louise Tang      - CSM Success Ops
+  "sobolewski", // Janusz Sobolewski - Principal Software Engineer
   "strong",     // Abby Strong      - VP Marketing
   "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
   "chung",      // Bill Chung       - Sr Site Reliability Engineer
