@@ -826,6 +826,7 @@ export const right = [
   "tankersley", // Nick Tankersley  - Product Manager
   "vandoren",   // Tim VanDoren     - Sr Software Engineer
   "wilk",       // Łukasz Wilk      - Sr Software Engineer
+  "vandoren",   // Trevor VanDoren  - Software Engineer
   "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
   "goozy",      // Steph Campagna   - Sr Events Marketing Manager
   "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
