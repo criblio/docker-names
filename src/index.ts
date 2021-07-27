@@ -823,6 +823,7 @@ export const right = [
   "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
   "tankersley", // Nick Tankersley  - Product Manager
   "vandoren",   // Tim VanDoren     - Sr Software Engineer
+  "vandoren",   // Trevor VanDoren  - Software Engineer
   "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
   "goozy",      // Steph Campagna   - Sr Events Marketing Manager
   "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
