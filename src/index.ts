@@ -812,6 +812,7 @@ export const right = [
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
   "bitincka",   // Ledion Bitincka  - Co-founder and Chief Technology Officer
   "easley",     // Bryce Easley     - Sr Software Engineer
+  "gilbert",    // Austin Gilbert   - Sr Software Engineer
   "heady",      // Hud Heady        - Sr Software Engineer
   "hoffman",    // Paul Hoffman     - Sr Assigned Support Engineer
   "katz",       // Michael Katz     - Sr Tech Writer
