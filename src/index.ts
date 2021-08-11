@@ -821,6 +821,7 @@ export const right = [
   "hoffman",    // Paul Hoffman     - Sr Assigned Support Engineer
   "jeebus",	    // Louise Tang      - CSM Success Ops
   "katz",       // Michael Katz     - Sr Tech Writer
+  "krueger",    // Brian Krueger    - Sr Software Engineer
   "litras",     // Steve Litras     - Technical Marketing Evangelist
   "maislin",    // David Maislin    - Principal Solutions Engineer
   "marko",      // Monika Marko     - Project Manager
