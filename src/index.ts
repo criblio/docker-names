@@ -816,6 +816,7 @@ export const right = [
   "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
   "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
   "goozy",      // Steph Campagna   - Sr Events Marketing Manager
+  "gilbert",    // Austin Gilbert   - Sr Software Engineer
   "heady",      // Hud Heady        - Sr Software Engineer
   "hoffman",    // Paul Hoffman     - Sr Assigned Support Engineer
   "jeebus",	    // Louise Tang      - CSM Success Ops
