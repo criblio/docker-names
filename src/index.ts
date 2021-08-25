@@ -810,7 +810,7 @@ export const right = [
   "ansell",     // Danny Ansell     - Regional Sales
   "bieron",     // Jan Bieroń       - Sr Software Engineer
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
-  "bitincka",   // Ledion Bitincka  - Co-founder and Chief Technology Officer
+                // Ledion Bitincka  - Co-founder and Chief Technology Officer
   "chung",      // Bill Chung       - Sr Site Reliability Engineer
   "easley",     // Bryce Easley     - Sr Software Engineer
   "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
@@ -828,7 +828,7 @@ export const right = [
   "rochette",   // Donn Rochette    - Principal Software Engineer
   "romito",     // Nick Romito      - Principal Software Engineer
   "shanaghy",   // Declan Shanaghy  - Principal SaaS Engineer
-  "shanaghy",   // Mick Shanaghy    - Head of Customer Support & Professional Services
+                // Mick Shanaghy    - Head of Customer Support & Professional Services
   "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
   "sobolewski", // Janusz Sobolewski- Principal Software Engineer
   "strong",     // Abby Strong      - VP Marketing
@@ -836,7 +836,9 @@ export const right = [
   "tankersley", // Nick Tankersley  - Product Manager
   "vandoren",   // Tim VanDoren     - Sr Software Engineer
   "wilk",       // Łukasz Wilk      - Sr Software Engineer
-  "vandoren",   // Trevor VanDoren  - Software Engineer
+  "vandoren",   // Anson VanDoren   - Sr Software Engineer
+                // Tim VanDoren     - Sr Frontend Engineer
+                // Trevor VanDoren  - Software Engineer
   "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
 ]
 
