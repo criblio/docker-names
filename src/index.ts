@@ -812,12 +812,14 @@ export const right = [
   "krueger",    // Brian Krueger    - Sr Software Engineer
   "litras",     // Steve Litras     - Technical Marketing Evangelist
   "maislin",    // David Maislin    - Principal Solutions Engineer
-  "marko",      // Monika Marko     - Project Manager
+  "marko",      // Monika Marko     - Sr. Technical Program Manage
+  "quick",      // Tom Quick        - Sr. Technical Program Manager
   "rochette",   // Donn Rochette    - Principal Software Engineer
   "romito",     // Nick Romito      - Principal Software Engineer
-  "shanaghy",   // Declan Shanaghy  - Principal SaaS Engineer
+  "shanaghy",   // Declan Shanaghy  - Principal Software Engineer
                 // Mick Shanaghy    - Head of Customer Support & Professional Services
   "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
+  "smith",      // Russel Smith     - Dir. of Eng - Cribl Cloud
   "sobolewski", // Janusz Sobolewski- Principal Software Engineer
   "strong",     // Abby Strong      - VP Marketing
   "suara",      // Hafiz Suara      - Software Engineer
@@ -827,7 +829,7 @@ export const right = [
   "vandoren",   // Anson VanDoren   - Sr Software Engineer
                 // Tim VanDoren     - Sr Frontend Engineer
                 // Trevor VanDoren  - Software Engineer
-  "wilkins",    // Jacob Wilkins    - Principal SecDevOps Engineer
+  "wilkins",    // Jacob Wilkins    - Principal DevSecOps Engineer
 ]
 
 /**
