@@ -796,6 +796,7 @@ export const right = [
   "bieron",     // Jan Bieroń       - Sr Software Engineer
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
                 // Ledion Bitincka  - Co-founder and Chief Technology Officer
+  "bondo",      // Eric Bond        - Principal UI Guy
   "chung",      // Bill Chung       - Sr Site Reliability Engineer
   "easley",     // Bryce Easley     - Sr Software Engineer
   "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
