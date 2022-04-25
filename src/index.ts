@@ -793,6 +793,7 @@ export const right = [
   "ago",        // Ledio Ago        - Sr. Director of Engineering
   "amir",       // Kam Amir         - Director Business Development
   "ansell",     // Danny Ansell     - Regional Sales
+  "nbarrrett"   // Nick Barrett     - Software Engineer
   "bieron",     // Jan Bieroń       - Sr Software Engineer
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
                 // Ledion Bitincka  - Co-founder and Chief Technology Officer
