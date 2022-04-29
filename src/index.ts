@@ -801,6 +801,7 @@ export const right = [
   "chung",      // Bill Chung       - Sr Site Reliability Engineer
   "easley",     // Bryce Easley     - Sr Software Engineer
   "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
+  "fones",      // Russel Fones.    - Sr Frontend Software Engineer
   "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
   "goozy",      // Steph Campagna   - Sr Events Marketing Manager
   "gorney",     // Jacob Gorney     - Sr Staff Software Engineer
