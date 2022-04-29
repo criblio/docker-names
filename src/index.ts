@@ -815,6 +815,7 @@ export const right = [
   "maislin",    // David Maislin    - Principal Solutions Engineer
   "marko",      // Monika Marko     - Sr. Technical Program Manage
   "quick",      // Tom Quick        - Sr. Technical Program Manager
+  "rivendell",  // Will Rivendell   - Sr. Software Engineer
   "rochette",   // Donn Rochette    - Principal Software Engineer
   "romito",     // Nick Romito      - Principal Software Engineer
   "shanaghy",   // Declan Shanaghy  - Principal Software Engineer
