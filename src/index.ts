@@ -814,6 +814,7 @@ export const right = [
   "litras",     // Steve Litras     - Technical Marketing Evangelist
   "maislin",    // David Maislin    - Principal Solutions Engineer
   "marko",      // Monika Marko     - Sr. Technical Program Manage
+  "mcgovern",   // Liam McGovern    - Sr. Product Security Engineer
   "mullins",    // Justin Mullins   - Sr. Site Reliability Engineer
   "quick",      // Tom Quick        - Sr. Technical Program Manager
   "rivendell",  // Will Rivendell   - Sr. Software Engineer
