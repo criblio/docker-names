@@ -793,7 +793,7 @@ export const right = [
   "ago",        // Ledio Ago        - Sr. Director of Engineering
   "amir",       // Kam Amir         - Director Business Development
   "ansell",     // Danny Ansell     - Regional Sales
-  "barrett",     // Nick Barrett     - Software Engineer
+  "barrett",    // Nick Barrett     - Software Engineer
   "bieron",     // Jan Bieroń       - Sr Software Engineer
   "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
                 // Ledion Bitincka  - Co-founder and Chief Technology Officer
@@ -823,7 +823,6 @@ export const right = [
   "shanaghy",   // Declan Shanaghy  - Principal Software Engineer
                 // Mick Shanaghy    - Head of Customer Support & Professional Services
   "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
-  "smith",      // Russel Smith     - Dir. of Eng - Cribl Cloud
   "sobolewski", // Janusz Sobolewski- Principal Software Engineer
   "strong",     // Abby Strong      - VP Marketing
   "suara",      // Hafiz Suara      - Software Engineer
