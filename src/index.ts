@@ -798,7 +798,10 @@ export const right = [
     "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
                   // Ledion Bitincka  - Co-founder and Chief Technology Officer
     "bondo",      // Eric Bond        - Principal UI Guy
+    "chakka",     // Sai Chakka       - Engineering Services - Productivity
+    "choi",       // Sunny Choi       - Sr Director of Engineering Services
     "chung",      // Bill Chung       - Sr Site Reliability Engineer
+    "cullen",     // Eddie Cullen     - Engineering Services - Productivity
     "easley",     // Bryce Easley     - Sr Software Engineer
     "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
     "fones",      // Russel Fones.    - Sr Frontend Software Engineer
@@ -811,11 +814,13 @@ export const right = [
     "jeebus",	    // Louise Tang      - CSM Success Ops
     "katz",       // Michael Katz     - Sr Tech Writer
     "krueger",    // Brian Krueger    - Sr Software Engineer
+    "lang",       // Remington Lang   - Engineering Services - Productivity
     "litras",     // Steve Litras     - Technical Marketing Evangelist
     "maislin",    // David Maislin    - Principal Solutions Engineer
     "marko",      // Monika Marko     - Sr. Technical Program Manage
     "mcgovern",   // Liam McGovern    - Sr. Product Security Engineer
     "mullins",    // Justin Mullins   - Sr. Site Reliability Engineer
+    "nguyen",     // Tommy Nguyen     - Engineering Services - Productivity
     "quick",      // Tom Quick        - Sr. Technical Program Manager
     "rivendell",  // Will Rivendell   - Sr. Software Engineer
     "rochette",   // Donn Rochette    - Principal Software Engineer
