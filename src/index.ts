@@ -789,56 +789,121 @@ export const right = [
     // Nikolay Yegorovich Zhukovsky (Russian: Никола́й Его́рович Жуко́вский, January 17 1847 – March 17, 1921) was a Russian scientist, mathematician and engineer, and a founding father of modern aero- and hydrodynamics. Whereas contemporary scientists scoffed at the idea of human flight, Zhukovsky was the first to undertake the study of airflow. He is often called the Father of Russian Aviation. https://en.wikipedia.org/wiki/Nikolay_Yegorovich_Zhukovsky
     "zhukovsky",
 
-    // Cribl Employee Family Names - Add your family name to this list in alphabetical order
+    // Cribl Employees - Add your family name (or nickname) to this list in alphabetical order
     "ago",        // Ledio Ago        - Sr. Director of Engineering
     "amir",       // Kam Amir         - Director Business Development
     "ansell",     // Danny Ansell     - Regional Sales
     "barrett",    // Nick Barrett     - Software Engineer
+    "bhaskar",    // Manish Bhaskar   - Dir, Product Management
     "bieron",     // Jan Bieroń       - Sr Software Engineer
     "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
                   // Ledion Bitincka  - Co-founder and Chief Technology Officer
     "bondo",      // Eric Bond        - Principal UI Guy
+    "bourbie",    // Benoit Bourbié   - Sr Staff Software Engineer
+    "bui",        // Farrah Bui       - VP, Business Operations
+    "cavuto",     // David Cavuto     - Dir, Product Management
     "chakka",     // Sai Chakka       - Engineering Services - Productivity
+    "checkoway",  // Dan Checkoway    - Staff Software Engineer
+    "chelikowsky", // John Chelikowsky - Principal Software Engineer
+    "chiorean",   // Stephan Chiorean - Software Engineer I
     "choi",       // Sunny Choi       - Sr Director of Engineering Services
     "chung",      // Bill Chung       - Sr Site Reliability Engineer
     "cullen",     // Eddie Cullen     - Engineering Services - Productivity
     "dalpe",      // Brendan Dalpe    - Technical Marketing
+    "davis",      // Rob Davis        - Sr Software Engineer
+    "dewadiga",   // Abhishek Dewadiga - Staff Software Engineer
+    "disha",      // Bekim Disha      - Staff Software Engineer
+    "draese",     // Olli Draese      - Sr Principal Software Engineer
+    "duke",       // David Duke       - Sr Technical Writer
+    "dzhumakaliev", // Ruslan Dzhumakaliev - Software Engineer II
     "easley",     // Bryce Easley     - Sr Software Engineer
+    "eltahir",    // Eltahir Eltahir  - Staff Software Engineer
     "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
     "fones",      // Russel Fones.    - Sr Frontend Software Engineer
     "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
+    "gian",       // Alona Gian       - Sr Technical Program Mgr
+    "gilbert",    // Austin Gilbert   - Sr Software Engineer
+    "goolya",     // Harsha Goolya    - Staff Product Mgr
     "goozy",      // Steph Campagna   - Sr Events Marketing Manager
     "gorney",     // Jacob Gorney     - Sr Staff Software Engineer
-    "gilbert",    // Austin Gilbert   - Sr Software Engineer
+    "hall",       // Michael Hall     - Sr Staff Software Engineer
     "heady",      // Hud Heady        - Sr Software Engineer
     "hoffman",    // Paul Hoffman     - Sr Assigned Support Engineer
-    "jeebus",	    // Louise Tang      - CSM Success Ops
+    "janssen",    // Aiden Janssen    - Dir, Site Reliability Engineering
+    "jarzyna",    // Daniel Jarzyna   - Mgr, Software Engineering
+    "jayaram",    // Mona Jayaram     - Sr Software Engineer
+    "jeebus",	  // Louise Tang      - CSM Success Ops
+    "kaczynski",  // Tomasz Kaczyński - Sr Staff Software Engineer
     "katz",       // Michael Katz     - Sr Tech Writer
     "krueger",    // Brian Krueger    - Sr Software Engineer
     "lang",       // Remington Lang   - Engineering Services - Productivity
+    "laughlin",   // Paul Laughlin    - Sr Staff Site Reliability Engineer
+    "lewis",      // Daniel Lewis     - Sr Mgr, UI/UX Product Design
     "litras",     // Steve Litras     - Technical Marketing Evangelist
     "maislin",    // David Maislin    - Principal Solutions Engineer
+    "mana",       // Klaus Mana       - Software Engineer- Intern
+    "marandola",  // Jennifer Marandola - Mgr, Technical Writing
+    "marcus",     // Ben Marcus Sr Product Mgr
     "marko",      // Monika Marko     - Sr. Technical Program Manage
+    "martins",    // Paul Martins     - Staff UI/UX Product Designer
+    "mccombs",    // Brandon McCombs  - Principal Technical Support Engineer
     "mcgovern",   // Liam McGovern    - Sr. Product Security Engineer
+    "mersin",     // Halil Mersin     - Principal Software Engineer
+    "miatselski", // Ivan Miatselski  - Sr Software Engineer
+    "mikhailov",  // Emil Mikhailov   - Staff Product Mgr
+    "mitchell",   // Nicholas Mitchell - Staff Software Engineer
+    "mohammed",   // Wale Mohammed    - Sr Site Reliability Engineer
+    "monroy",     // Monroy Zolano    - IT Support Engineer II
+    "mullins",    // Justin Mullins   - Sr Site Reliability Engineer
     "mullins",    // Justin Mullins   - Sr. Site Reliability Engineer
+    "mungel",     // Nikhil Mungel    - Sr Mgr, Software Engineering
+    "muni",       // Prathyusha Muni  - Sr Site Reliability Engineer
     "nguyen",     // Tommy Nguyen     - Engineering Services - Productivity
+    "paplinski",  // Przemek Papliński - Sr Mgr, Site Reliability Engineering
+    "polychronis",// Kostas Polychronis - Principal Software Engineer
+    "prodan",     // Sasha Prodan     - Sr Software Engineer
     "quick",      // Tom Quick        - Sr. Technical Program Manager
+    "quintero",   // Amaury Quintero  - Staff Site Reliability Engineer
+    "radecki",    // Rafal Radecki    - Sr Staff Site Reliability Engineer
+    "raher",      // Abe Raher        - Sr Technical Writer
+    "rattana",    // Drew Rattana     - Sr Software Engineer
+    "reed",       // Erin Reed        - Sr Site Reliability Engineer
     "rivendell",  // Will Rivendell   - Sr. Software Engineer
     "rochette",   // Donn Rochette    - Principal Software Engineer
+    "romano",     // Gonzalo Romano   - Sr Software Engineer
+    "romero",     // Enrique Romero   - Sr Mgr, Software Engineering
     "romito",     // Nick Romito      - Principal Software Engineer
+    "ross",       // Jeremiah Ross    - Enablement Mgr
+    "rust",       // Jon Rust         - Sr Solutions Engineer
+    "santos",     // Emmanuel Alves Nobrega dos Santos - Sr Site Reliability Engineer
+    "searle",     // Curry Searle     - Sr SecOps Engineer
+    "shahbaz",    // Banipal Shahbaz  - Sr Director, Software Engineering
     "shanaghy",   // Declan Shanaghy  - Principal Software Engineer
                   // Mick Shanaghy    - Head of Customer Support & Professional Services
     "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
+    "shtylla",    // Bardhi Shtylla   - Sr Staff Software Engineer
+    "singh",      // Sneha Singh      - Staff Frontend Engineer
+    "smoczynska", // Sylwia Smoczyńska - Sr UI/UX Product Designer
     "sobolewski", // Janusz Sobolewski- Principal Software Engineer
+    "souza",      // Mike Souza       - Staff Software Engineer
     "strong",     // Abby Strong      - VP Marketing
     "suara",      // Hafiz Suara      - Software Engineer
+    "sundaravarathan", // Kiran Sundaravarathan - Sr Staff Site Reliability Engineer
+    "szmajnta",   // Andrzej Szmajnta - Sr Software Engineer
     "tankersley", // Nick Tankersley  - Product Manager
-    "vandoren",   // Tim VanDoren     - Sr Software Engineer
-    "wilk",       // Łukasz Wilk      - Sr Software Engineer
+    "trusov",     // Roman Trusov     - Sr Software Engineer
+    "turcic",     // Jamey Turcic     - Staff Site Reliability Engineer
     "vandoren",   // Anson VanDoren   - Sr Software Engineer
-                  // Tim VanDoren     - Sr Frontend Engineer
+                  // Tim VanDoren     - Sr Software Engineer
                   // Trevor VanDoren  - Software Engineer
+    "wali",       // Madhukesh Wali   - Sr Staff Software Engineer
+    "walters",    // Matt Walters     - Sr Dir, Engineering
+    "wilk",       // Łukasz Wilk      - Sr Software Engineer
     "wilkins",    // Jacob Wilkins    - Principal DevSecOps Engineer
+    "woger",      // Johan Woger      - Sr Technical Support Engineer
+    "wolfe",      // Eric Wolfe       - Sr UI/UX Product Designer
+    "zahid",      // Usman Zahid      - Software Engineer II
+    "zamora",     // Aaron Zamora     - Sr Staff Technical Marketing Engineer
 ]
 
 /**
