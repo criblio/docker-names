@@ -805,6 +805,11 @@ export const right = [
     "draese",     // Olli Draese      - Sr Principal Software Engineer
     "duke",       // David Duke       - Sr Technical Writer
     "dzhumakaliev", // Ruslan Dzhumakaliev - Software Engineer II
+    "chakka",     // Sai Chakka       - Engineering Services - Productivity
+    "choi",       // Sunny Choi       - Sr Director of Engineering Services
+    "chung",      // Bill Chung       - Sr Site Reliability Engineer
+    "cullen",     // Eddie Cullen     - Engineering Services - Productivity
+    "dalpe",      // Brendan Dalpe    - Technical Marketing
     "easley",     // Bryce Easley     - Sr Software Engineer
     "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
     "fones",      // Russel Fones.    - Sr Frontend Software Engineer
@@ -818,6 +823,7 @@ export const right = [
     "jeebus",	  // Louise Tang      - CSM Success Ops
     "katz",       // Michael Katz     - Sr Tech Writer
     "krueger",    // Brian Krueger    - Sr Software Engineer
+    "lang",       // Remington Lang   - Engineering Services - Productivity
     "litras",     // Steve Litras     - Technical Marketing Evangelist
     "maislin",    // David Maislin    - Principal Solutions Engineer
     "marko",      // Monika Marko     - Sr. Technical Program Manage
@@ -828,6 +834,7 @@ export const right = [
     "mitchell",   // Nicholas Mitchell - Staff Software Engineer
     "mullins",    // Justin Mullins   - Sr. Site Reliability Engineer
     "polychronis",// Kostas Polychronis - Principal Software Engineer
+    "nguyen",     // Tommy Nguyen     - Engineering Services - Productivity
     "quick",      // Tom Quick        - Sr. Technical Program Manager
     "rattana",    // Drew Rattana     - Sr Software Engineer
     "rivendell",  // Will Rivendell   - Sr. Software Engineer
