@@ -851,6 +851,7 @@ export const right = [
                   // Trevor VanDoren  - Software Engineer
     "walters",    // Matt Walters     - Sr Dir, Engineering
     "wilkins",    // Jacob Wilkins    - Principal DevSecOps Engineer
+    "zamora",     // Aaron Zamora     - Sr Staff Technical Marketing Engineer
 ]
 
 /**
