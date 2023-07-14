@@ -798,7 +798,13 @@ export const right = [
     "bitincka",   // Dritan Bitincka  - Co-founder and Chief Products Officer
                   // Ledion Bitincka  - Co-founder and Chief Technology Officer
     "bondo",      // Eric Bond        - Principal UI Guy
+    "cavuto",     // David Cavuto     - Dir, Product Management
+    "checkoway",  // Dan Checkoway    - Staff Software Engineer
     "chung",      // Bill Chung       - Sr Site Reliability Engineer
+    "dewadiga",   // Abhishek Dewadiga - Staff Software Engineer
+    "draese",     // Olli Draese      - Sr Principal Software Engineer
+    "duke",       // David Duke       - Sr Technical Writer
+    "dzhumakaliev", // Ruslan Dzhumakaliev - Software Engineer II
     "easley",     // Bryce Easley     - Sr Software Engineer
     "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
     "fones",      // Russel Fones.    - Sr Frontend Software Engineer
@@ -806,32 +812,44 @@ export const right = [
     "goozy",      // Steph Campagna   - Sr Events Marketing Manager
     "gorney",     // Jacob Gorney     - Sr Staff Software Engineer
     "gilbert",    // Austin Gilbert   - Sr Software Engineer
+    "hall",       // Michael Hall     - Sr Staff Software Engineer
     "heady",      // Hud Heady        - Sr Software Engineer
     "hoffman",    // Paul Hoffman     - Sr Assigned Support Engineer
-    "jeebus",	    // Louise Tang      - CSM Success Ops
+    "jeebus",	  // Louise Tang      - CSM Success Ops
     "katz",       // Michael Katz     - Sr Tech Writer
     "krueger",    // Brian Krueger    - Sr Software Engineer
     "litras",     // Steve Litras     - Technical Marketing Evangelist
     "maislin",    // David Maislin    - Principal Solutions Engineer
     "marko",      // Monika Marko     - Sr. Technical Program Manage
+    "martins",    // Paul Martins     - Staff UI/UX Product Designer
     "mcgovern",   // Liam McGovern    - Sr. Product Security Engineer
+    "mersin",     // Halil Mersin     - Principal Software Engineer
+    "mikhailov",  // Emil Mikhailov   - Staff Product Mgr
+    "mitchell",   // Nicholas Mitchell - Staff Software Engineer
     "mullins",    // Justin Mullins   - Sr. Site Reliability Engineer
+    "polychronis",// Kostas Polychronis - Principal Software Engineer
     "quick",      // Tom Quick        - Sr. Technical Program Manager
+    "rattana",    // Drew Rattana     - Sr Software Engineer
     "rivendell",  // Will Rivendell   - Sr. Software Engineer
     "rochette",   // Donn Rochette    - Principal Software Engineer
+    "romano",     // Gonzalo Romano   - Sr Software Engineer
     "romito",     // Nick Romito      - Principal Software Engineer
     "shanaghy",   // Declan Shanaghy  - Principal Software Engineer
                   // Mick Shanaghy    - Head of Customer Support & Professional Services
     "sharp",      // Clint Sharp      - Co-founder and Chief Executive Officer
+    "shtylla",    // Bardhi Shtylla   - Sr Staff Software Engineer
+    "smoczynska", // Sylwia Smoczyńska - Sr UI/UX Product Designer
     "sobolewski", // Janusz Sobolewski- Principal Software Engineer
     "strong",     // Abby Strong      - VP Marketing
     "suara",      // Hafiz Suara      - Software Engineer
     "tankersley", // Nick Tankersley  - Product Manager
+    "trusov",     // Roman Trusov     - Sr Software Engineer
     "vandoren",   // Tim VanDoren     - Sr Software Engineer
     "wilk",       // Łukasz Wilk      - Sr Software Engineer
     "vandoren",   // Anson VanDoren   - Sr Software Engineer
                   // Tim VanDoren     - Sr Frontend Engineer
                   // Trevor VanDoren  - Software Engineer
+    "walters",    // Matt Walters     - Sr Dir, Engineering
     "wilkins",    // Jacob Wilkins    - Principal DevSecOps Engineer
 ]
 
