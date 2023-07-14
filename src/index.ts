@@ -802,6 +802,7 @@ export const right = [
     "choi",       // Sunny Choi       - Sr Director of Engineering Services
     "chung",      // Bill Chung       - Sr Site Reliability Engineer
     "cullen",     // Eddie Cullen     - Engineering Services - Productivity
+    "dalpe",      // Brendan Dalpe    - Technical Marketing
     "easley",     // Bryce Easley     - Sr Software Engineer
     "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
     "fones",      // Russel Fones.    - Sr Frontend Software Engineer
