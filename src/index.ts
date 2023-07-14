@@ -799,6 +799,7 @@ export const right = [
                   // Ledion Bitincka  - Co-founder and Chief Technology Officer
     "bondo",      // Eric Bond        - Principal UI Guy
     "chung",      // Bill Chung       - Sr Site Reliability Engineer
+    "dalpe",      // Brendan Dalpe    - Technical Marketing
     "easley",     // Bryce Easley     - Sr Software Engineer
     "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
     "fones",      // Russel Fones.    - Sr Frontend Software Engineer
