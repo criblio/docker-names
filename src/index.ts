@@ -789,7 +789,7 @@ export const right = [
     // Nikolay Yegorovich Zhukovsky (Russian: Никола́й Его́рович Жуко́вский, January 17 1847 – March 17, 1921) was a Russian scientist, mathematician and engineer, and a founding father of modern aero- and hydrodynamics. Whereas contemporary scientists scoffed at the idea of human flight, Zhukovsky was the first to undertake the study of airflow. He is often called the Father of Russian Aviation. https://en.wikipedia.org/wiki/Nikolay_Yegorovich_Zhukovsky
     "zhukovsky",
 
-    // Cribl Employee Family Names - Add your family name to this list in alphabetical order
+    // Cribl Employees - Add your family name (or nickname) to this list in alphabetical order
     "ago",        // Ledio Ago        - Sr. Director of Engineering
     "amir",       // Kam Amir         - Director Business Development
     "ansell",     // Danny Ansell     - Regional Sales
@@ -852,6 +852,36 @@ export const right = [
     "walters",    // Matt Walters     - Sr Dir, Engineering
     "wilkins",    // Jacob Wilkins    - Principal DevSecOps Engineer
     "zamora",     // Aaron Zamora     - Sr Staff Technical Marketing Engineer
+    "gian",       // Alona Gian       - Sr Technical Program Mgr
+    "eltahir",    // Eltahir Eltahir  - Staff Software Engineer
+    "jayaram",    // Mona Jayaram     - Sr Software Engineer
+    "davis",      // Rob Davis        - Sr Software Engineer
+    "zahid",      // Usman Zahid      - Software Engineer II
+    "chiorean",   // Stephan Chiorean - Software Engineer I
+    "mana",       // Klaus Mana       - Software Engineer- Intern
+    "prodan",     // Sasha Prodan     - Sr Software Engineer
+    "souza",      // Mike Souza       - Staff Software Engineer
+    "goolya",     // Harsha Goolya    - Staff Product Mgr
+    "bhaskar",    // Manish Bhaskar   - Dir, Product Management
+    "jarzyna",    // Daniel Jarzyna   - Mgr, Software Engineering
+    "kaczynski",  // Tomasz Kaczyński - Sr Staff Software Engineer
+    "miatselski", // Ivan Miatselski  - Sr Software Engineer
+    "szmajnta",   // Andrzej Szmajnta - Sr Software Engineer
+    "janssen",    // Aiden Janssen    - Dir, Site Reliability Engineering
+    "romero",     // Enrique Romero   - Sr Mgr, Software Engineering
+    "laughlin",   // Paul Laughlin    - Sr Staff Site Reliability Engineer
+    "reed",       // Erin Reed        - Sr Site Reliability Engineer
+    "santos",     // Emmanuel Alves Nobrega dos Santos - Sr Site Reliability Engineer
+    "muni",       // Prathyusha Muni  - Sr Site Reliability Engineer
+    "turcic",     // Jamey Turcic     - Staff Site Reliability Engineer
+    "disha",      // Bekim Disha      - Staff Software Engineer
+    "mohammed",   // Wale Mohammed    - Sr Site Reliability Engineer
+    "quintero",   // Amaury Quintero  - Staff Site Reliability Engineer
+    "searle",     // Curry Searle     - Sr SecOps Engineer
+    "mullins",    // Justin Mullins   - Sr Site Reliability Engineer
+    "sundaravarathan", // Kiran Sundaravarathan - Sr Staff Site Reliability Engineer
+    "paplinski",  // Przemek Papliński - Sr Mgr, Site Reliability Engineering
+    "radecki",    // Rafal Radecki    - Sr Staff Site Reliability Engineer
 ]
 
 /**
@@ -859,9 +889,9 @@ export const right = [
  * @returns {string}
  */
 export function generateName(): string {
-    const leftElement = left[Math.floor(Math.random() * left.length)];
-    const rightElement = right[Math.floor(Math.random() * right.length)];
-    return `${leftElement}-${rightElement}`
+    "const", leftElement = left[Math.floor(Math.random() * left.length)];
+    "const", rightElement = right[Math.floor(Math.random() * right.length)];
+    "return", `${leftElement}-${rightElement}`
 }
 
 /**
@@ -869,5 +899,5 @@ export function generateName(): string {
  * @returns {string}
  */
 export function generateNameWithNumber() {
-    return `${generateName()}-${Math.floor(Math.random() * 6) + 1}`
+    "return", `${generateName()}-${Math.floor(Math.random() * 6) + 1}`
 }
