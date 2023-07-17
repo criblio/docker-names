@@ -793,6 +793,7 @@ export const right = [
     "ago",        // Ledio Ago        - Sr. Director of Engineering
     "amir",       // Kam Amir         - Director Business Development
     "ansell",     // Danny Ansell     - Regional Sales
+    "balala",     // Maliha Balala    - Sr Technical Writer
     "barrett",    // Nick Barrett     - Software Engineer
     "bhaskar",    // Manish Bhaskar   - Dir, Product Management
     "bieron",     // Jan Bieroń       - Sr Software Engineer
@@ -800,6 +801,8 @@ export const right = [
                   // Ledion Bitincka  - Co-founder and Chief Technology Officer
     "bondo",      // Eric Bond        - Principal UI Guy
     "bourbie",    // Benoit Bourbié   - Sr Staff Software Engineer
+    "bradford",   // Chris Bradford   - Sr Partner Business Mgr
+    "bryant",     // Pachet Bryant    - Business Development Rep
     "bui",        // Farrah Bui       - VP, Business Operations
     "cavuto",     // David Cavuto     - Dir, Product Management
     "chakka",     // Sai Chakka       - Engineering Services - Productivity
@@ -808,36 +811,52 @@ export const right = [
     "chiorean",   // Stephan Chiorean - Software Engineer I
     "choi",       // Sunny Choi       - Sr Director of Engineering Services
     "chung",      // Bill Chung       - Sr Site Reliability Engineer
+    "collins",    // Jeremy Collins   - Partner Business Mgr
+    "conway",     // Ryan Conway      - Sr Product Mgr
+    "correll",    // Perry Correll    - Principal Technical Content Mgr
     "cullen",     // Eddie Cullen     - Engineering Services - Productivity
+    "dagan",      // Raanan Dagan     - Principal Solutions Engineer
     "dalpe",      // Brendan Dalpe    - Technical Marketing
+    "dar",        // Dariann Kobe     - Mgr, Technical Customer Training
     "davis",      // Rob Davis        - Sr Software Engineer
     "dewadiga",   // Abhishek Dewadiga - Staff Software Engineer
     "disha",      // Bekim Disha      - Staff Software Engineer
     "draese",     // Olli Draese      - Sr Principal Software Engineer
+    "duca",       // Duca Duca        - Dir, Professional Services
     "duke",       // David Duke       - Sr Technical Writer
     "dzhumakaliev", // Ruslan Dzhumakaliev - Software Engineer II
     "easley",     // Bryce Easley     - Sr Software Engineer
+    "edens",      // Jessica Edens    - Technical Support Engineer I
     "eltahir",    // Eltahir Eltahir  - Staff Software Engineer
     "emmy",       // Victor Lin       - Sr Revenue Marketing Manager
     "fones",      // Russel Fones.    - Sr Frontend Software Engineer
     "fritze",     // Zena Fritze      - Sr Director, Revenue Marketing
+    "gardner",    // Harry Gardner    - Mgr, Software Engineering
     "gian",       // Alona Gian       - Sr Technical Program Mgr
+    "gifford",    // Tim Gifford      - Regional Sales Mgr IV
     "gilbert",    // Austin Gilbert   - Sr Software Engineer
+    "gomes",      // Rodney Gomes     - Principal Software Engineer
     "goolya",     // Harsha Goolya    - Staff Product Mgr
     "goozy",      // Steph Campagna   - Sr Events Marketing Manager
     "gorney",     // Jacob Gorney     - Sr Staff Software Engineer
     "hall",       // Michael Hall     - Sr Staff Software Engineer
+    "hayes",      // Bert Hayes       - Sr Solutions Engineer
     "heady",      // Hud Heady        - Sr Software Engineer
+    "hink",       // Robbert Hink     - Sr Technical Support Engineer
     "hoffman",    // Paul Hoffman     - Sr Assigned Support Engineer
     "janssen",    // Aiden Janssen    - Dir, Site Reliability Engineering
     "jarzyna",    // Daniel Jarzyna   - Mgr, Software Engineering
     "jayaram",    // Mona Jayaram     - Sr Software Engineer
     "jeebus",	  // Louise Tang      - CSM Success Ops
     "kaczynski",  // Tomasz Kaczyński - Sr Staff Software Engineer
+    "kanson",     // Dylan Kanson     - Business Development Rep
     "katz",       // Michael Katz     - Sr Tech Writer
+                  // Eugene Katz      - Sr Professional Services Consultant
     "krueger",    // Brian Krueger    - Sr Software Engineer
+    "laarits",    // Franky Laarits   - Sr Technical Support Engineer
     "lang",       // Remington Lang   - Engineering Services - Productivity
     "laughlin",   // Paul Laughlin    - Sr Staff Site Reliability Engineer
+    "lee",        // Sang-gon Lee     - Sr Software Engineer
     "lewis",      // Daniel Lewis     - Sr Mgr, UI/UX Product Design
     "litras",     // Steve Litras     - Technical Marketing Evangelist
     "maislin",    // David Maislin    - Principal Solutions Engineer
@@ -847,6 +866,7 @@ export const right = [
     "marko",      // Monika Marko     - Sr. Technical Program Manage
     "martins",    // Paul Martins     - Staff UI/UX Product Designer
     "mccombs",    // Brandon McCombs  - Principal Technical Support Engineer
+    "mccririe",   // Kyle McCririe    - Sr Technical Support Engineer
     "mcgovern",   // Liam McGovern    - Sr. Product Security Engineer
     "mersin",     // Halil Mersin     - Principal Software Engineer
     "miatselski", // Ivan Miatselski  - Sr Software Engineer
@@ -854,29 +874,40 @@ export const right = [
     "mitchell",   // Nicholas Mitchell - Staff Software Engineer
     "mohammed",   // Wale Mohammed    - Sr Site Reliability Engineer
     "monroy",     // Monroy Zolano    - IT Support Engineer II
+    "mortazavi",  // Ahoura Mortazavi - Technical Support Engineer II
     "mullins",    // Justin Mullins   - Sr Site Reliability Engineer
     "mullins",    // Justin Mullins   - Sr. Site Reliability Engineer
     "mungel",     // Nikhil Mungel    - Sr Mgr, Software Engineering
     "muni",       // Prathyusha Muni  - Sr Site Reliability Engineer
     "nguyen",     // Tommy Nguyen     - Engineering Services - Productivity
+    "nurkulov",   // Temirlan Nurkulov - Sr Software Engineer
+    "owen",       // Chris Owen       - Staff Technical Support Engineer
+    "padilla",    // John Padilla     - Sr Technical Support Engineer
     "paplinski",  // Przemek Papliński - Sr Mgr, Site Reliability Engineering
+    "perumal",    // PK Perumal       - Staff Customer Success Engineer
     "polychronis",// Kostas Polychronis - Principal Software Engineer
     "prodan",     // Sasha Prodan     - Sr Software Engineer
+    "purfield",   // Joe Purfield     - Sr Business Development Representative
     "quick",      // Tom Quick        - Sr. Technical Program Manager
     "quintero",   // Amaury Quintero  - Staff Site Reliability Engineer
     "radecki",    // Rafal Radecki    - Sr Staff Site Reliability Engineer
     "raher",      // Abe Raher        - Sr Technical Writer
+    "ramanathan", // Bharath Ram Ramanathan - Sr Product Marketing Mgr
     "rattana",    // Drew Rattana     - Sr Software Engineer
     "reed",       // Erin Reed        - Sr Site Reliability Engineer
     "rivendell",  // Will Rivendell   - Sr. Software Engineer
     "rochette",   // Donn Rochette    - Principal Software Engineer
     "romano",     // Gonzalo Romano   - Sr Software Engineer
+    "romano",     // Mariano Romano   - Sr Technical Customer Training Mgr
     "romero",     // Enrique Romero   - Sr Mgr, Software Engineering
     "romito",     // Nick Romito      - Principal Software Engineer
     "ross",       // Jeremiah Ross    - Enablement Mgr
+    "russell",    // Sondra Russell   - Sr Mgr, Solutions Engineering
     "rust",       // Jon Rust         - Sr Solutions Engineer
+    "salerno",    // Angela Salerno   - Sr Director, Field & Channel Marketing
     "santos",     // Emmanuel Alves Nobrega dos Santos - Sr Site Reliability Engineer
     "searle",     // Curry Searle     - Sr SecOps Engineer
+    "semple",     // Ryan Semple      - Sr Software Engineer
     "shahbaz",    // Banipal Shahbaz  - Sr Director, Software Engineering
     "shanaghy",   // Declan Shanaghy  - Principal Software Engineer
                   // Mick Shanaghy    - Head of Customer Support & Professional Services
@@ -893,10 +924,13 @@ export const right = [
     "tankersley", // Nick Tankersley  - Product Manager
     "trusov",     // Roman Trusov     - Sr Software Engineer
     "turcic",     // Jamey Turcic     - Staff Site Reliability Engineer
+    "uppuluri",   // UVL Uppuluri     - Staff Customer Success Engineer
+    "valeo",      // Sean Valeo       - Sr Staff Software Engineer
     "vandoren",   // Anson VanDoren   - Sr Software Engineer
                   // Tim VanDoren     - Sr Software Engineer
                   // Trevor VanDoren  - Software Engineer
     "wali",       // Madhukesh Wali   - Sr Staff Software Engineer
+    "wallace",    // Cory Wallace     - Dir, Technical Marketing
     "walters",    // Matt Walters     - Sr Dir, Engineering
     "wilk",       // Łukasz Wilk      - Sr Software Engineer
     "wilkins",    // Jacob Wilkins    - Principal DevSecOps Engineer
