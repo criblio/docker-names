@@ -898,7 +898,7 @@ export const right = [
     "rivendell",  // Will Rivendell   - Sr. Software Engineer
     "rochette",   // Donn Rochette    - Principal Software Engineer
     "romano",     // Gonzalo Romano   - Sr Software Engineer
-    "romano",     // Mariano Romano   - Sr Technical Customer Training Mgr
+                  // Mariano Romano   - Sr Technical Customer Training Mgr
     "romero",     // Enrique Romero   - Sr Mgr, Software Engineering
     "romito",     // Nick Romito      - Principal Software Engineer
     "ross",       // Jeremiah Ross    - Enablement Mgr
