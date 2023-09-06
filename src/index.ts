@@ -802,8 +802,10 @@ export const right = [
     "bondo",      // Eric Bond        - Principal UI Guy
     "bourbie",    // Benoit Bourbié   - Sr Staff Software Engineer
     "bradford",   // Chris Bradford   - Sr Partner Business Mgr
+    "brunette",   // Kevin Brunette   - Sr Solutions Engineer
     "bryant",     // Pachet Bryant    - Business Development Rep
     "bui",        // Farrah Bui       - VP, Business Operations
+    "buzzard",    // Chad Buzzard     - Sr Solutions Engineer
     "cavuto",     // David Cavuto     - Dir, Product Management
     "chakka",     // Sai Chakka       - Engineering Services - Productivity
     "checkoway",  // Dan Checkoway    - Staff Software Engineer
@@ -822,6 +824,7 @@ export const right = [
     "dewadiga",   // Abhishek Dewadiga - Staff Software Engineer
     "disha",      // Bekim Disha      - Staff Software Engineer
     "draese",     // Olli Draese      - Sr Principal Software Engineer
+    "dryden",     // Cam Dryden       - Regional Sales Manager
     "duca",       // Duca Duca        - Dir, Professional Services
     "duke",       // David Duke       - Sr Technical Writer
     "dzhumakaliev", // Ruslan Dzhumakaliev - Software Engineer II
@@ -835,6 +838,7 @@ export const right = [
     "gian",       // Alona Gian       - Sr Technical Program Mgr
     "gifford",    // Tim Gifford      - Regional Sales Mgr IV
     "gilbert",    // Austin Gilbert   - Sr Software Engineer
+    "gleich",     // Derek Gleich     - Staff Solutions Engineer
     "gomes",      // Rodney Gomes     - Principal Software Engineer
     "goolya",     // Harsha Goolya    - Staff Product Mgr
     "goozy",      // Steph Campagna   - Sr Events Marketing Manager
@@ -871,6 +875,7 @@ export const right = [
     "mersin",     // Halil Mersin     - Principal Software Engineer
     "miatselski", // Ivan Miatselski  - Sr Software Engineer
     "mikhailov",  // Emil Mikhailov   - Staff Product Mgr
+    "mikkleson",  // Mary Mikkleson   - Sr Events Specialist
     "mitchell",   // Nicholas Mitchell - Staff Software Engineer
     "mohammed",   // Wale Mohammed    - Sr Site Reliability Engineer
     "monroy",     // Monroy Zolano    - IT Support Engineer II
@@ -879,6 +884,7 @@ export const right = [
     "mullins",    // Justin Mullins   - Sr. Site Reliability Engineer
     "mungel",     // Nikhil Mungel    - Sr Mgr, Software Engineering
     "muni",       // Prathyusha Muni  - Sr Site Reliability Engineer
+    "murad",      // Amin Murad       - Sr Solutions Engineer
     "nguyen",     // Tommy Nguyen     - Engineering Services - Productivity
     "nurkulov",   // Temirlan Nurkulov - Sr Software Engineer
     "owen",       // Chris Owen       - Staff Technical Support Engineer
@@ -908,6 +914,7 @@ export const right = [
     "santos",     // Emmanuel Alves Nobrega dos Santos - Sr Site Reliability Engineer
     "searle",     // Curry Searle     - Sr SecOps Engineer
     "semple",     // Ryan Semple      - Sr Software Engineer
+    "shah",       // Sidd Shah        - Sr Solutions Engineer
     "shahbaz",    // Banipal Shahbaz  - Sr Director, Software Engineering
     "shanaghy",   // Declan Shanaghy  - Principal Software Engineer
                   // Mick Shanaghy    - Head of Customer Support & Professional Services
