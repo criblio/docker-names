@@ -839,6 +839,7 @@ export const right = [
     "goolya",     // Harsha Goolya    - Staff Product Mgr
     "goozy",      // Steph Campagna   - Sr Events Marketing Manager
     "gorney",     // Jacob Gorney     - Sr Staff Software Engineer
+    "halastra",   // Marcin Halastra  - Staff Software Engineer
     "hall",       // Michael Hall     - Sr Staff Software Engineer
     "hayes",      // Bert Hayes       - Sr Solutions Engineer
     "heady",      // Hud Heady        - Sr Software Engineer
@@ -885,6 +886,7 @@ export const right = [
     "padilla",    // John Padilla     - Sr Technical Support Engineer
     "paplinski",  // Przemek Papliński - Sr Mgr, Site Reliability Engineering
     "perumal",    // PK Perumal       - Staff Customer Success Engineer
+    "pilarczyk",  // Krzysztof Pilarczyk - Sr Software Engineer
     "polychronis",// Kostas Polychronis - Principal Software Engineer
     "prodan",     // Sasha Prodan     - Sr Software Engineer
     "purfield",   // Joe Purfield     - Sr Business Development Representative
@@ -938,6 +940,7 @@ export const right = [
     "wolfe",      // Eric Wolfe       - Sr UI/UX Product Designer
     "zahid",      // Usman Zahid      - Software Engineer II
     "zamora",     // Aaron Zamora     - Sr Staff Technical Marketing Engineer
+    "zastawny",   // Bartek Zastawny  - Sr Software Engineer
 ]
 
 /**
