@@ -879,6 +879,7 @@ export const right = [
     "mikkleson",  // Mary Mikkleson   - Sr Events Specialist
     "mitchell",   // Nicholas Mitchell - Staff Software Engineer
     "mohammed",   // Wale Mohammed    - Sr Site Reliability Engineer
+    "molla",      // Jona Molla       - Chief Wrangling Officer
     "monroy",     // Monroy Zolano    - IT Support Engineer II
     "mortazavi",  // Ahoura Mortazavi - Technical Support Engineer II
     "mullins",    // Justin Mullins   - Sr Site Reliability Engineer
