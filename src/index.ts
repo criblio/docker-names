@@ -243,7 +243,7 @@ export const right = [
     // Samuel Curran was an Irish physicist who worked alongside his wife during WWII and invented the proximity fuse. https://en.wikipedia.org/wiki/Samuel_Curran
     "curran",
 
-    // Marie Curie discovered radioactivity. https://en.wikipedia.org/wiki/Marie_Curie.
+    // Marie Skłodowska-Curie discovered radioactivity. https://en.wikipedia.org/wiki/Marie_Curie.
     "curie",
 
     // Charles Darwin established the principles of natural evolution. https://en.wikipedia.org/wiki/Charles_Darwin.
