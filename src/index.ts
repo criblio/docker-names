@@ -791,6 +791,7 @@ export const right = [
     "zhukovsky",
 
     // Cribl Employees - Add your family name (or nickname) to this list in alphabetical order
+    "adebajo",    // Seyi Adebajo     - Staff Software Engineer
     "ago",        // Ledio Ago        - Sr. Director of Engineering
     "amir",       // Kam Amir         - Director Business Development
     "ansell",     // Danny Ansell     - Regional Sales
