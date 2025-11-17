@@ -900,6 +900,7 @@ export const right = [
     "perumal",    // PK Perumal       - Staff Customer Success Engineer
     "pilarczyk",  // Krzysztof Pilarczyk - Sr Software Engineer
     "polychronis",// Kostas Polychronis - Principal Software Engineer
+    "pondrom",    // John Pondrom     - Staff Designated Support Engineer
     "prodan",     // Sasha Prodan     - Sr Software Engineer
     "purfield",   // Joe Purfield     - Sr Business Development Representative
     "quick",      // Tom Quick        - Sr. Technical Program Manager
