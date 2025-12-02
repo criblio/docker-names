@@ -855,7 +855,6 @@ export const right = [
     "janssen",    // Aiden Janssen    - Dir, Site Reliability Engineering
     "jarzyna",    // Daniel Jarzyna   - Mgr, Software Engineering
     "jayaram",    // Mona Jayaram     - Sr Software Engineer
-    "jeebus",	  // Louise Tang      - CSM Success Ops
     "kaczynski",  // Tomasz Kaczyński - Sr Staff Software Engineer
     "kanson",     // Dylan Kanson     - Business Development Rep
     "katz",       // Michael Katz     - Sr Tech Writer
@@ -937,6 +936,7 @@ export const right = [
     "suara",      // Hafiz Suara      - Software Engineer
     "sundaravarathan", // Kiran Sundaravarathan - Sr Staff Site Reliability Engineer
     "szmajnta",   // Andrzej Szmajnta - Sr Software Engineer
+    "tang",    	  // Louise Tang      - Staff CS Engineer
     "tankersley", // Nick Tankersley  - Product Manager
     "trusov",     // Roman Trusov     - Sr Software Engineer
     "turcic",     // Jamey Turcic     - Staff Site Reliability Engineer
